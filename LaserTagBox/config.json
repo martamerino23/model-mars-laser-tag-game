@@ -17,7 +17,7 @@
       "mapping": [
         {
           "parameter": "Visualization",
-          "value": true
+          "value": false
         },
         {
           "parameter": "VisualizationTimeout",
